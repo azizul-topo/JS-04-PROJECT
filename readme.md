@@ -22,7 +22,7 @@ GET https://api.freeapi.app/api/v1/public/books
 
 ## 🚀 Deployment
 You can access the live version of the application here:  
-👉 azizul-topo.github.io/JS-04-PROJECT/
+👉 [Live Host Link](https://azizul-topo.github.io/JS-04-PROJECT/)
 ## Technologies Used
 - HTML
 - CSS
